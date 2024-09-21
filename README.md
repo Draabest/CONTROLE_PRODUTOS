@@ -17,8 +17,8 @@ Eclipse
 
 ### 🔧 Instalação
 
-*Na página principal do repositório, localize e clique no botão verde “<> Code” no canto superior direito dos arquivos. Baixe o arquivo .zip e extraia-o na pasta de sua escolha.
-*Em seguida, abra a pasta “ProgramaçãoOrientadaAObjetos-main” na IDE de sua preferência. Para executar o arquivo desejado, clique em “run” ou “run code” na sua IDE.
+*Na página principal do repositório, procure o botão verde “<> Code” no canto superior direito dos arquivos e clique nele. Baixe o arquivo .zip e extraia-o na pasta de sua escolha.
+*Em seguida, abra a pasta “Lista-de-Exercicio-Etapa-1” na IDE de sua preferência. Para executar o arquivo desejado, clique em “run” ou “run code” na sua IDE e utilize o software como quiser.
 
 
 ## 🛠️ Construído com
