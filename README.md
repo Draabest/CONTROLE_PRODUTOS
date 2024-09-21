@@ -1,28 +1,30 @@
 # Lista de exercicios-etapa 1
 
-Atividadeds individuais a basse de java que fazem parte da AC1
+Repositório para registrar os exercícios das aulas do Dr. Daniel Ohata, que fazem parte da AC1.
 
 ## 🚀 Começando
 
-Pode colocar o enunciado para o desenvolvimento do projeto
-
 ### 📋 Pré-requisitos
 
-De que coisas você precisa para instalar o software e como instalá-lo?
-
+Utilize uma IDE que tenha suporte para a linguagem java.
+Aqui esta algumas IDE's para utilizar
 ```
-Dar exemplos
+Visual Studio Code
+NetBeans
+IntelliJ
+Eclipse
 ```
 
 ### 🔧 Instalação
 
-* Explicação de como deve ser utilizado o projeto
+*Na página principal do repositório, localize e clique no botão verde “<> Code” no canto superior direito dos arquivos. Baixe o arquivo .zip e extraia-o na pasta de sua escolha.
+*Em seguida, abra a pasta “ProgramaçãoOrientadaAObjetos-main” na IDE de sua preferência. Para executar o arquivo desejado, clique em “run” ou “run code” na sua IDE.
+
 
 ## 🛠️ Construído com
 
-Ferramentas utilizadas e bibliotecas
+*VS code
 
-* VS code
 
 ## 📌 Versão
 
